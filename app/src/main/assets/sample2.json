@@ -1,0 +1,236 @@
+{
+  "responseData": {
+    "feed": {
+      "feedUrl": "http://headlines.yahoo.co.jp/rss/zdn_ait-c_sci.xml",
+      "title": "＠IT - IT・科学 - Yahoo!ニュース",
+      "link": "http://news.search.yahoo.co.jp/search?p\u003d%A1%F7IT\u0026amp;vaop\u003da\u0026amp;to\u003d2\u0026amp;st\u003dn\u0026amp;c_n\u003dc_sci",
+      "author": "",
+      "description": "Yahoo! JAPANのニュースに掲載されている記事の最新の見出しを提供しています。",
+      "type": "rss20",
+      "entries": [
+        {
+          "title": "「できない理由」にとらわれたら（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140513-00000022-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 19:54:26 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "なぜ理系は文系に使われるのだろうか？（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140509-00000037-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 08 May 2014 20:12:28 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "「誰か延長コードを持ってませんか？」を英語で伝えよう（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140508-00000031-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Wed, 07 May 2014 20:30:08 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "融資に必要な経営計画の立て方と経営計画書の作り方（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140425-00000049-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 20:31:28 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "会議の質を高めるために、リーダーが仕掛けるポイント（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140425-00000048-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 20:27:52 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "“伝統的な営業スタイル”は、いつでもどこでも必要なのか（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140425-00000047-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 20:24:04 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "要件やシステム化の範囲はどうやって決めるのか？（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140425-00000046-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 20:21:18 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "選ばなかった道の先には何がある？（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140425-00000045-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 20:12:03 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "野原家の収支事情で学ぶ、連結決算の行い方（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140424-00000105-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 03:36:34 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "物理データベースにはカラムを追加、心のデータベースには？（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140424-00000104-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 03:31:27 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "ワクワクが原動力～「計画された偶発性」を地でいくキャリアの築き方（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140424-00000102-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 24 Apr 2014 03:09:34 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "Kendo UIの大部分がOSSに（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140422-00000100-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Tue, 22 Apr 2014 04:48:19 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "AWSも値下げ発表、EC2とS3、RDSなど対象（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140327-00000099-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 27 Mar 2014 02:36:07 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "今あるファイルサーバーを生かしてスマホやタブレットから操作する「Acronis Access」（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140306-00000092-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 06 Mar 2014 04:47:31 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "IDSを超えマルウェアの可視化へ、シスコがソースファイアの技術を統合（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140306-00000091-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 06 Mar 2014 04:47:14 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "JPEGのサイズを10％圧縮、Mozillaが新エンコーダー「mozjpeg v1.0」発表（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140306-00000090-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Thu, 06 Mar 2014 04:47:03 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "次のDynamics AXはWindows Azure環境もフル活用可能に（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140305-00000090-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Wed, 05 Mar 2014 03:24:25 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "OWASPを関西にも、カジュアル勉強会「OWASP Kansai」が発足（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140305-00000089-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Wed, 05 Mar 2014 03:24:10 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "AWSのアプリケーション管理、OpsWorksとAWS CloudFormationの併用が可能に（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140304-00000103-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Tue, 04 Mar 2014 04:52:07 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        },
+        {
+          "title": "POSデータ数十億件のリアルタイム分析基盤を開発、クラスメソッド（＠IT）",
+          "link": "http://rd.yahoo.co.jp/rss/l/headlines/sci/zdn_ait/*http://headlines.yahoo.co.jp/hl?a\u003d20140304-00000102-zdn_ait-sci",
+          "author": "",
+          "publishedDate": "Tue, 04 Mar 2014 04:51:50 -0800",
+          "contentSnippet": "",
+          "content": "",
+          "categories": [
+            "IT総合"
+          ]
+        }
+      ]
+    }
+  },
+  "responseDetails": null,
+  "responseStatus": 200
+}

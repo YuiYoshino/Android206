@@ -1,0 +1,88 @@
+{
+  "responseData": {
+    "feed": {
+      "feedUrl": "http://rss.dailynews.yahoo.co.jp/fc/sports/rss.xml",
+      "title": "Yahoo!ニュース・トピックス - スポーツ",
+      "link": "http://dailynews.yahoo.co.jp/fc/sports/",
+      "author": "",
+      "description": "Yahoo! JAPANのニュース・トピックスで取り上げている最新の見出しを提供しています。",
+      "type": "rss20",
+      "entries": [
+        {
+          "title": "代表メンバー オシム氏が分析",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/soccer_national_team/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 21:38:13 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "W杯「主導権を握る」メンバー",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/alberto_zaccheroni/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 17:35:15 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "遠藤保仁 3大会越しの思い",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/gamba_osaka/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 16:48:31 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "大久保 サプライズの舞台裏",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/yoshito_okubo/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 17:15:57 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "大久保 代表チップス「落選」",
+          "link": "http://dailynews.yahoo.co.jp/fc/economy/foods/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 15:49:18 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "ファーディナンドがマンU退団",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/premiership/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 21:38:13 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "巨人セペダ 即4番デビューも",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/giants/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 18:56:07 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        },
+        {
+          "title": "キム・ヨナ 大学院試験受けた",
+          "link": "http://dailynews.yahoo.co.jp/fc/sports/kim_yuna/",
+          "author": "",
+          "publishedDate": "Mon, 12 May 2014 18:52:22 -0700",
+          "contentSnippet": "",
+          "content": "",
+          "categories": []
+        }
+      ]
+    }
+  },
+  "responseDetails": null,
+  "responseStatus": 200
+}
